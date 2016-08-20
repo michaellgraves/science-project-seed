@@ -3,7 +3,7 @@
 ### Seed data for science project
 Includes:
 * Science project content structure
-* Sample
+* Sample post
 * index.html
 * 404.html
 * _config.yml with configuration required for site
