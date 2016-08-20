@@ -44,4 +44,5 @@ Seed data includes:
 8. Add your user pages to the _posts directory
 	* format YYYY-MM-DD-<post_name>.md
 	* post should include title and tag parameters in front matter (post is the default layout configured in _config.yml)
+9. Add sticky pages to pages directory
 
