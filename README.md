@@ -9,11 +9,10 @@ Includes:
 * _config.yml with configuration required for site
 
 ### Instructions
-1. Creating project repository
-2. Create gh-pages branch
+1. Fork [science-project-seed] (https://github.com/michaellgraves/science-project-seed)
+2. Create gh-pages branch within new repository
 3. Replicate locally
-4. Copy these project pages to gh-pages 
-5. Add jekyll-bootstrap-template as a submodule of your project
+4. Add jekyll-bootstrap-template as a submodule of your project
 
 >git submodule add https://github.com/<user>/jekyll-bootstrap-template template
 
