@@ -1,7 +1,13 @@
 # science-project-seed
 
 ### Seed data for science project
-Includes:
+
+Leverages Jekyll theme: 
+[jekyll-bootstrap-template] (https://github.com/michaellgraves/jekyll-bootstrap-template)
+
+An example implementation of the theme and seed data can be found here: [sample-science-project] (https://michaellgraves.github.io/sample-science-project)
+
+Seed data includes:
 * Science project content structure
 * Sample post
 * index.html
