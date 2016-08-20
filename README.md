@@ -18,7 +18,7 @@ Seed data includes:
 1. Fork [science-project-seed] (https://github.com/michaellgraves/science-project-seed)
 2. Create gh-pages branch within new repository
 3. Replicate locally
-4. Add jekyll-bootstrap-template as a submodule of your project
+4. Add jekyll-bootstrap-template as a submodule of your project. From git shell:
 
 >git submodule add https://github.com/michaellgraves/jekyll-bootstrap-template new_template
 
