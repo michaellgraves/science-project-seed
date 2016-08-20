@@ -25,6 +25,15 @@ layouts_dir:  ./<submodule>/_layouts
 data_dir:     ./<submodule>/_data
 includes_dir: ./<submodule>/_includes
 
+# Front Matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts" 
+    values:
+      layout: "post"
+
 #Google Analytics tracking id
 analytics:        
 
