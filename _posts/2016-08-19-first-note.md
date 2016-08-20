@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Keeping a lab notebook
 tags: getting-started sample
 ---
