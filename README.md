@@ -8,8 +8,8 @@ Leverages Jekyll theme:
 An example implementation of the theme and seed data can be found here: [sample-science-project] (https://michaellgraves.github.io/sample-science-project)
 
 Seed data includes:
-* Science project content structure
-* Sample post
+* Sample pages in pages directory. Any pages added here will show up on left-hand-side nav 
+* Sample post in _posts directory. Any post added will be displayed in lab notes grid
 * index.html
 * 404.html
 * _config.yml with configuration required for site
