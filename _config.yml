@@ -1,0 +1,26 @@
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Project Name
+description:      'This is where you put your project short description'
+
+#Github Pages site and baseurl
+url:              https://michaellgraves.github.io
+baseurl:          /sample-science-project
+
+#Local site
+#url:              http://localhost:4000
+
+#Google Analytics tracking id
+analytics:        
+
+author:
+  name:           'You Name'
+  twitter:        https://twitter.com/yourtwitterhandle
+
+gems:             [jekyll-paginate, jekyll-gist]
