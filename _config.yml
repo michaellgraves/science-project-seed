@@ -9,12 +9,21 @@ relative_permalinks: false
 title:            Project Name
 description:      'This is where you put your project short description'
 
-#Github Pages site and baseurl
-url:              https://michaellgraves.github.io
-baseurl:          /sample-science-project
+#Github Pages site and baseurl, submodule name
+url:                #https://<github user>.github.io
+baseurl:            #/<name of your project folder>
+submodule:          #/<submodule>          
 
 #Local site
-#url:              http://localhost:4000
+url:                #http://localhost:4000
+
+# Where things are - include submodule in path
+source:       .
+destination:  ./_site
+plugins_dir:  ./<submodule>/_plugins
+layouts_dir:  ./<submodule>/_layouts
+data_dir:     ./<submodule>/_data
+includes_dir: ./<submodule>/_includes
 
 #Google Analytics tracking id
 analytics:        
