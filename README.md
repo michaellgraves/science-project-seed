@@ -15,6 +15,8 @@ Includes:
 4. Add jekyll-bootstrap-template as a submodule of your project
 
 >git submodule add https://github.com/michaellgraves/jekyll-bootstrap-template new_template
+>git commit -m "adding submodules"
+>git push
 
 
 6. Update _config.yml parameters:
