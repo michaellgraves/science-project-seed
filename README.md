@@ -13,6 +13,7 @@ Seed data includes:
 * index.html
 * 404.html
 * _config.yml with configuration required for site
+* .gitignore for a jekyll site
 
 ### Instructions
 1. Fork [science-project-seed] (https://github.com/michaellgraves/science-project-seed)
